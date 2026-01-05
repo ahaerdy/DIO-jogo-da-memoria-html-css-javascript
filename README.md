@@ -75,7 +75,7 @@ git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
 
 ---
 
-## 👩‍🏫 Créditos
+## Créditos
 
 * **Instrutora**: Gabriela Pinheiro (Software Engineer @ Caju).
 * **Plataforma**: [Digital Innovation One (DIO)](https://www.dio.me/).
