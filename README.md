@@ -2,6 +2,10 @@
 
 Projeto desenvolvido durante o **Bootcamp TQI Fullstack Developer** na plataforma [DIO](https://web.dio.me/), sob orientação da instrutora **Gabriela Pinheiro**. O objetivo é criar um jogo da memória funcional, focando em animações 3D com CSS e lógica de manipulação do DOM com JavaScript.
 
+<p align="center">
+  <img src="image.png" alt="" width="480">
+</p>
+
 ## Sobre o Projeto
 
 O projeto consiste em um tabuleiro de 12 cartas inspiradas no universo do Mario. A aplicação foca na experiência do usuário através de efeitos visuais realistas e uma lógica de jogo robusta que impede comportamentos inesperados.
@@ -43,7 +47,6 @@ Cada carta possui um atributo `data-card` que permite ao JavaScript comparar o c
 ```html
 <div class="card" data-card="mario">
   </div>
-
 ```
 
 ### Otimização de Cliques
@@ -64,11 +67,11 @@ A função de embaralhamento utiliza a propriedade CSS `order` combinada com `Ma
 ## Como Executar
 
 1. Clone o repositório:
+
 ```bash
 git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
 
 ```
-
 
 2. Abra o arquivo `index.html` em seu navegador.
 
