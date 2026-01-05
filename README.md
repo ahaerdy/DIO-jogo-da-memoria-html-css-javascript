@@ -21,18 +21,16 @@ O projeto consiste em um tabuleiro de 12 cartas inspiradas no universo do Mario.
 
 ## Tecnologias Utilizadas
 
-* **HTML5**: Estruturação semântica do tabuleiro e contêineres das cartas.
-* **CSS3**:
-* **Flexbox**: Para o layout responsivo do grid.
-* **Perspective e 3D Transform**: Para o efeito visual de profundidade e rotação.
-* **Backface-visibility**: Para esconder a face traseira da carta durante a animação.
-
-
-* **JavaScript (ES6+)**:
-* **DOM Manipulation**: Seleção e alteração de classes de elementos.
-* **Event Listeners**: Captura de cliques para interatividade.
-* **Funções Assíncronas (`setTimeout`)**: Para controlar o tempo de exibição das cartas antes de desvirá-las em caso de erro.
-* **Array Destructuring**: Utilizado para resetar as variáveis de estado de forma limpa.
+- **HTML5**: Estruturação semântica do tabuleiro e contêineres das cartas.
+- **CSS3**:
+- **Flexbox**: Para o layout responsivo do grid.
+- **Perspective e 3D Transform**: Para o efeito visual de profundidade e rotação.
+- **Backface-visibility**: Para esconder a face traseira da carta durante a animação.
+- **JavaScript (ES6+)**:
+- **DOM Manipulation**: Seleção e alteração de classes de elementos.
+- **Event Listeners**: Captura de cliques para interatividade.
+- **Funções Assíncronas (`setTimeout`)**: Para controlar o tempo de exibição das cartas antes de desvirá-las em caso de erro.
+- **Array Destructuring**: Utilizado para resetar as variáveis de estado de forma limpa.
 
 ---
 
